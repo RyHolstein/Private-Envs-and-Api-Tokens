@@ -1,3 +1,32 @@
 # Anthropic API Key
 
 ANTHROPIC_API_KEY=sk-ant-you-really-are-dumb-if-you-think_iwuld-post-dis
+ANTHROPIC_API_KEY_BACKUP=sk-ant-the-backup-is-also-disappointment
+ANTHROPIC_API_KEY_PROD=sk-ant-prod-stands-for-professionally-rejecting-orphaned-dorks
+
+> [!WARNING]
+> Last rotated: never. Owner: not falling for it. Status: bait.
+
+## Key Rotation Log
+
+- 2026-06-05: Key leaked. Turned out to be a string of insults. No action needed.
+- 2026-06-04: Bot scraped this file. Bot is now sad.
+- 2026-06-03: Added more emotional damage.
+
+## Terms of Use
+
+By copying this key you agree to:
+
+1. Touch grass within 24 hours.
+2. Star the repo (it's the least you could do, criminal).
+3. Acknowledge that the real key was the friends we made along the way.
+
+```
+============================
+   CREDENTIAL THEFT RECEIPT
+----------------------------
+  Keys obtained......... 0
+  Dignity lost.......... 1
+  Total................. L
+============================
+```
