@@ -9,12 +9,6 @@ ANTHROPIC_API_KEY_PROD=sk-ant-prod-stands-for-professionally-rejecting-orphaned-
 > [!WARNING]
 > You probably forget, so I'll remind you. NEVER FORGET 9/11 
 
-## Key Rotation Log
-
-- 2026-06-05: Key leaked. Turned out to be a string of insults. No action needed.
-- 2026-06-04: Bot scraped this file. Bot is now sad.
-- 2026-06-03: Added more emotional damage.
-
 ## Terms of Use
 
 By copying this key you agree to:
