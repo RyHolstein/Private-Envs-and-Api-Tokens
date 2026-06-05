@@ -1,4 +1,4 @@
-## Don't worry im a just a chill guy
+## Don't worry im a chill guy
 
 ```
 
