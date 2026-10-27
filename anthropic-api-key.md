@@ -7,7 +7,7 @@ ANTHROPIC_API_KEY_BACKUP=sk-ant-the-backup-is-also-disappointment
 ANTHROPIC_API_KEY_PROD=sk-ant-prod-stands-for-professionally-rejecting-orphaned-dorks
 
 > [!WARNING]
-> You probably forget, so I'll remind you. NEVER FORGET 9/11 
+> You probably forgot, so I'll remind you. NEVER FORGET 9/11 
 
 ## Terms of Use
 
